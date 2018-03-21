@@ -1,5 +1,5 @@
 {
-  "name": "node-redmine",
+  "name": "@alexanderc/node-redmine",
   "version": "0.2.1",
   "description": "node-redmine is a nodejs library which supports 100% features of Redmine's REST API.",
   "main": "lib/redmine.js",
